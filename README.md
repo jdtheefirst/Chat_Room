@@ -32,7 +32,7 @@
 ### Clone this repository
 
 `git clone https://github.com/jdtheefirst/Chat_Room.git` <br/>
-`cd chatify`
+`cd Chat_Room`
 
 ### Install Dependencies
 
