@@ -4,7 +4,7 @@
 
 ### Chat Room or Workspace to share resources and hangout with friends.
 
-### https://chatifynew.vercel.app/
+### [https://chatroom/](https://chat-room-git-main-jdtheefirsts-projects.vercel.app/)
 
 <div align="center">
   <img alt="Demo" src="./Assets/Chat_Room.png" />
